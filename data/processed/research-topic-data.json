@@ -1,0 +1,54 @@
+{
+  "education": {
+    "povertyByAttainment": [
+      {"label":"Less than high school diploma","percentBelowPoverty":47.2},
+      {"label":"High school graduate","percentBelowPoverty":27.4},
+      {"label":"Associate's degree","percentBelowPoverty":18.3},
+      {"label":"Bachelor's degree or higher","percentBelowPoverty":10.8}
+    ],
+    "thirdGradeProficiency2025": [
+      {"subject":"ELA","economicallyDisadvantaged":23,"notEconomicallyDisadvantaged":65},
+      {"subject":"Math","economicallyDisadvantaged":25,"notEconomicallyDisadvantaged":63}
+    ]
+  },
+  "neighborhoodConditions": {
+    "housing": {"occupiedUnits":59816,"vacantUnits":7785,"ownerOccupiedUnits":24889,"renterOccupiedUnits":34001,"medianGrossRent":1039,"medianHomeValue":138400},
+    "opportunityAtlasAdultHouseholdIncome": [
+      {"area":"Westside","range":"$26,000-$44,000"},
+      {"area":"Southside","range":"$19,000-$30,000"},
+      {"area":"Downtown","range":"About $29,000"},
+      {"area":"Northside / Destiny area","range":"$28,000-$36,000"},
+      {"area":"Syracuse University area","range":"$35,000-$57,000"}
+    ]
+  },
+  "employment": {
+    "incomeDistribution": [
+      {"range":"Less than $10,000","percent":11.4},
+      {"range":"$10,000-$14,999","percent":6.7},
+      {"range":"$15,000-$24,999","percent":11.5},
+      {"range":"$25,000-$34,999","percent":9.6},
+      {"range":"$35,000-$49,999","percent":12.3},
+      {"range":"$50,000-$74,999","percent":16.0},
+      {"range":"$75,000-$99,999","percent":11.4},
+      {"range":"$100,000-$149,999","percent":12.2},
+      {"range":"$150,000-$199,999","percent":4.8},
+      {"range":"$200,000 or more","percent":4.0}
+    ],
+    "metroWorkforceJune2026": {"laborForceThousands":318.3,"employedThousands":305.8,"unemployedThousands":12.4,"unemploymentRate":3.9}
+  },
+  "racialStatistics": {
+    "povertyRate": [
+      {"group":"White alone","percent":20.5},
+      {"group":"Black or African American alone","percent":37.3},
+      {"group":"Hispanic or Latino, any race","percent":44.7},
+      {"group":"Asian alone","percent":27.0}
+    ],
+    "perCapitaIncome2024": [
+      {"group":"White","dollars":36504},
+      {"group":"Black","dollars":20089},
+      {"group":"American Indian or Alaska Native","dollars":19342},
+      {"group":"Asian","dollars":21554},
+      {"group":"Hispanic or Latino","dollars":17892}
+    ]
+  }
+}

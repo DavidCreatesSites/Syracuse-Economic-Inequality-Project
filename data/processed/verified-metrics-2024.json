@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "city": "Syracuse city, New York",
+    "acsPeriod": "2020-2024",
+    "currencyYear": 2024,
+    "retrieved": "2026-09-20"
+  },
+  "comparison": {
+    "povertyRate": { "label": "People in poverty", "unit": "%", "Syracuse": 28.8, "New York": 14.0, "United States": 10.2, "source": "source-census-syracuse" },
+    "medianHouseholdIncome": { "label": "Median household income", "unit": "$", "Syracuse": 47819, "New York": 85974, "United States": 80734, "source": "source-census-syracuse" },
+    "perCapitaIncome": { "label": "Per capita income", "unit": "$", "Syracuse": 28393, "New York": 50712, "United States": 44673, "source": "source-census-syracuse" },
+    "bachelorsDegree": { "label": "Bachelor's degree or higher", "unit": "%", "Syracuse": 31.2, "New York": 40.2, "source": "source-census-syracuse" },
+    "laborForceParticipation": { "label": "In the civilian labor force", "unit": "%", "Syracuse": 56.8, "New York": 62.6, "source": "source-census-syracuse" }
+  },
+  "housing": {
+    "ownerOccupiedRate": 41.6,
+    "renterOccupiedRate": 58.4,
+    "medianHomeValue": 138400,
+    "medianGrossRent": 1039,
+    "broadbandRate": 88.1,
+    "source": "source-census-syracuse"
+  },
+  "workforce": {
+    "geography": "Syracuse metropolitan area",
+    "referenceMonth": "June 2026",
+    "laborForceThousands": 318.3,
+    "employedThousands": 305.8,
+    "unemployedThousands": 12.4,
+    "unemploymentRate": 3.9,
+    "source": "source-bls"
+  }
+}

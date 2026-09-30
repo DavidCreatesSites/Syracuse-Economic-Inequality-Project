@@ -1,0 +1,7 @@
+# Workspace-only folders
+work/
+outputs/
+
+# Operating-system files
+Thumbs.db
+.DS_Store

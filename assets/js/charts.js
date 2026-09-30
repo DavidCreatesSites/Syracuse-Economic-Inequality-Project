@@ -1,0 +1,5 @@
+/*
+  Verified chart configurations will be added here once research data and
+  accompanying source notes have been reviewed. No illustrative values belong
+  in this file.
+*/

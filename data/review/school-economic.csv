@@ -1,0 +1,45 @@
+Economic ID,Economic,Test,School District ID,School District,Year,Percent Proficient
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2014,0.07000000029802322
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2015,0.05999999865889549
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2016,0.07000000029802322
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2017,0.11999999731779099
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2018,0.1599999964237213
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2019,0.1899999976158142
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2021,0.15000000596046448
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2022,0.0915958434343338
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2023,0.1331987828016281
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2024,0.1537708193063736
+15,Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2025,0.22583480179309845
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2014,0.09000000357627869
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2015,0.09000000357627869
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2016,0.11999999731779099
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2017,0.15000000596046448
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2018,0.20999999344348907
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2019,0.1899999976158142
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2021,0.07999999821186066
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2022,0.09715857356786728
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2023,0.14370663464069366
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2024,0.17990431189537048
+15,Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2025,0.2454090118408203
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2014,0.23999999463558197
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2015,0.20000000298023224
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2016,0.23999999463558197
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2017,0.3400000035762787
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2018,0.5
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2019,0.49000000953674316
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2021,0.44999998807907104
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2022,0.4135802388191223
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2023,0.3316831588745117
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2024,0.40123456716537476
+16,Not Economically Disadvantaged,ELA,97000US3628590,Syracuse City School District,2025,0.6507936716079712
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2014,0.25999999046325684
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2015,0.27000001072883606
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2016,0.30000001192092896
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2017,0.28999999165534973
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2018,0.4699999988079071
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2019,0.4699999988079071
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2021,0.3499999940395355
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2022,0.3109756112098694
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2023,0.3365384638309479
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2024,0.35593220591545105
+16,Not Economically Disadvantaged,Mathematics,97000US3628590,Syracuse City School District,2025,0.6343283653259277
